@@ -2,7 +2,9 @@
 
 OpenChess is a Java Swing chess application for playing games, practicing against a bot, and analyzing PGN positions. It includes a playable board, move validation, bot play with multiple difficulties, move-history browsing, and a PGN analysis mode that lets you branch into a practice game from any analyzed position.
 
-# Demo Video: https://drive.google.com/file/d/1p23zUSXfLQ4Nq0XFLt5EkVSnOroB-phc/view?usp=sharing
+# Demo Video
+
+https://drive.google.com/file/d/1p23zUSXfLQ4Nq0XFLt5EkVSnOroB-phc/view?usp=sharing
 
 ## Features
 
